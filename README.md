@@ -27,8 +27,9 @@
 #### Team Coordinator GitHub Username: `YOUR TEAM COORDINATOR GITHUB USERNAME HERE`
 
 #### Team Members 
-|Name|Github|
-|Vedant Ghavate|vedantghavate|(https://github.com/vedantghavate)
-|Likitha Bommasani|LikithaBommasani|
-|Nishu Singh|nishusingh11|
-|Siddharth Suresh Babu|sidd64|
+| Name | Github |
+| ----- | ----- |
+| Vedant Ghavate |vedantghavate |
+| Likitha Bommasani | LikithaBommasani |
+| Nishu Singh | nishusingh11 |
+| Siddharth Suresh Babu | sidd64 |
