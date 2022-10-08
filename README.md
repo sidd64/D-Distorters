@@ -22,7 +22,7 @@
 - [ ] Privacy and Security
 > How can we increase data privacy and enhance cybersecurity measures in the release, exchange and use of healthcare data, both locally and nationally.
 
-#### Team Coordinator GitHub Username: 'sidd64'
+#### Team Coordinator GitHub Username: 'vedantghavate'
 
 #### Team Members 
 | Name | Github |
